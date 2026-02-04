@@ -1,3 +1,7 @@
 * text=auto
 
-Content/static/** filter=lfs diff=lfs merge=lfs -text
+Content/Characters/** filter=lfs diff=lfs merge=lfs -text
+Content/Textures/** filter=lfs diff=lfs merge=lfs -text
+Content/Props/** filter=lfs diff=lfs merge=lfs -text
+Content/Environments/** filter=lfs diff=lfs merge=lfs -text
+Content/Skeletal Mesh/** filter=lfs diff=lfs merge=lfs -text
